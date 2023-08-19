@@ -3,7 +3,7 @@
   <a href="https://neon-kulfi-ed4ee5.netlify.app/" target="_blank">P.folio</a>
 </h2>
 <div align="center">
-<img alt="Demo" src="https://media.discordapp.net/attachments/1063498738531835956/1142450240209834015/websitepp.jpg?width=818&height=469" />
+<img alt="Demo" src="https://cdn.discordapp.com/attachments/1063498738531835956/1142455904516706455/portpic.jpg" />
 </div>
 
 <br/>
