@@ -8,7 +8,7 @@
 
 <br/>
 
-## TL;DR
+##
 
 You can fork this template to modify and make changes of your own.
 
